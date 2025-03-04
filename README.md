@@ -1,6 +1,5 @@
 
-
-These are only the mods that I downloaded but unedited who would be interested in the whole setup and edited all the mods (.css) that I made thanks to AI in Cursor which I recommend if you want to edit .css yourself. I can send all the files to chat or somewhere and you just copy them to your chrome folder.
+These are just mods that I downloaded, and modified a bit by myself (.css). All mods that are included in the chrome folder are here:
 
 Coheison and Natsumi - https://github.com/TheBigWazz/ZenThemes (url animation and toolbar look)
 
