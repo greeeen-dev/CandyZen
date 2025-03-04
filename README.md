@@ -7,7 +7,4 @@ Tabgroups - https://github.com/Anoms12/Advanced-Tab-Groups/blob/main/README.md (
 
 My-internet - https://github.com/sameerasw/my-internet (pop up animation etc. and blur background)
 
-Mods and folder Chrome:
-
-
-![Uploading Bez názvu.png…]()
+Mods and folder Chrome: https://pasteboard.co/GtBOR9ZBIv6P.png
