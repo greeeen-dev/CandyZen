@@ -1,0 +1,42 @@
+/* gemini-transparecy */
+:root .dark-theme,
+:root .light-theme {
+  --gem-sys-color--surface: #00000000 !important;
+  --gem-sys-color--surface-container: #00000000 !important;
+}
+
+input-container,
+.input-gradient::before {
+  background: none !important;
+}
+
+/* gemini-other changes */
+.content-container chat-window .chat-container .bottom-container {
+  margin-bottom: 30px !important;
+}
+
+input-container hallucination-disclaimer {
+  display: none !important;
+}
+
+.input-area-container {
+  margin-bottom: 2em !important;
+}
+
+.cdk-overlay-pane > div,
+mat-card {
+  background-color: var(--bard-color-neutral-96) !important;
+  border-radius: 1em !important;
+}
+
+/* gemini-hover */
+.side-nav-menu-button,
+.boqOnegoogleliteOgbOneGoogleBar,
+top-bar-actions {
+  opacity: 0 !important;
+  transition: opacity 0.3s ease-in-out !important;
+
+  &:hover {
+    opacity: 1 !important;
+  }
+}
